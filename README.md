@@ -1,10 +1,12 @@
-IT Support Labs
+# IT Support Labs
 
-Goal: Preparing for entry-level IT Support/Helpdesk roles.
+## Goal
+Prepare for entry-level IT Support / Helpdesk roles by building practical, hands-on skills.
 
-Currently learning:
--CompTIA A+ fundamentals
--Basic Networking (TCP/IP, DNS, DHCP)
--Windows & Linux troubleshooting
+## Currently Learning
+- CompTIA A+ fundamentals  
+- Basic Networking (TCP/IP, DNS, DHCP)  
+- Windows and Linux troubleshooting
 
-This repository documents my hands-on practice and learning progress.
+## About This Repository
+This repository documents my hands-on practice, labs, and learning progress in IT support. It serves as a professional record of my skills development for potential employers.
