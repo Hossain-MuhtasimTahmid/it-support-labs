@@ -11,3 +11,5 @@
   * Made another test VM and changed the 'Network Adapter' from "NAT" to "Bridged Adapter"--> will allow the VM to communicate with the host machine which is my main laptop.
   * Created a snapshot in kali linux and after it made a folder and a text file inside the kali linux and after that went back to create another snapshot. Then clicked on the first snapshot I created and restored- after turning on the kali linux again the previously made file was not there and it was sent back to its previous state.--> thats what snapshots are capable of.
 <img width="960" height="564" alt="vmsnapshot" src="https://github.com/user-attachments/assets/16faee46-c38e-4b48-82b5-293d8d30f330" />
+* Created a new hard disk and checked through opening my windows VM and searching in the search box 'diskmgmt.msc' and allocated the newly made hard disk.
+<img width="960" height="564" alt="creatingharddiskVM" src="https://github.com/user-attachments/assets/1c665e8f-84bf-41a3-8726-c0eeeb619ad8" />
